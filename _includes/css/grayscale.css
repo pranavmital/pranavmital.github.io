@@ -10,6 +10,8 @@ body {
     font-family: Lato,Avenir Next,Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
     background-image: url(/images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 html {
