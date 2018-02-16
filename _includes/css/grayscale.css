@@ -274,7 +274,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 320px;
+        padding-top: 120px;
     }
 
     .blog-section {
