@@ -41,7 +41,7 @@ p {
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
-        font-size: 580%;
+        font-size: 180%;
         line-height: 1.6;
     }
 }
