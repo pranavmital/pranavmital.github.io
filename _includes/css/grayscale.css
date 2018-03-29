@@ -34,14 +34,14 @@ h6 {
 
 p {
     margin: 0 0 25px;
-    font-size: 155%;
+    font-size: 145%;
     line-height: 1.5;
 }
 
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
-        font-size: 390%;
+        font-size: 175%;
         line-height: 1.6;
     }
 }
