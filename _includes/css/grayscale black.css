@@ -8,7 +8,7 @@ body {
     width: 100%;
     height: 100%;
     font-family: 'Montserrat', sans-serif, Avenir Next,Lato,"Helvetica Neue",Helvetica,Arial,Lora;
-    color: #000000;
+    color: #fff;
     background-image: none;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -68,7 +68,7 @@ a:focus {
     /* border-bottom: 1px solid rgba(255,255,255,.3); */
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #ffffff;
+    background-color: {{ site.color.primary-dark }};
 }
 
 .navbar-custom .navbar-brand {
@@ -91,7 +91,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    color: #000000;
+    color: #fff;
 }
 
 .navbar-custom .nav li.active {
