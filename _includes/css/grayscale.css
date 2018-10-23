@@ -48,6 +48,12 @@ p {
     }
 }
 
+@media(min-width:767px) {
+    h2 { 
+        font-size: 50px
+    }
+}
+
 a {
     color: {{ site.color.links }};
     -webkit-transition: all .2s ease-in-out;
@@ -369,3 +375,5 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+
