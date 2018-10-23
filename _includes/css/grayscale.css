@@ -33,7 +33,8 @@ h6 {
     letter-spacing: 1px;
 }
 
-p {
+p { 
+    font-weight: 500;
     margin: 0 0 25px;
     font-size: 145%;
     line-height: 1.5;
