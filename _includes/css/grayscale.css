@@ -40,7 +40,8 @@ p {
 }
 
 @media(min-width:767px) {
-    p {
+    p { 
+        font-weight: 500;
         margin: 0 0 35px;
         font-size: 175%;
         line-height: 1.6;
