@@ -55,17 +55,7 @@ p {
     }
 }
 
-@media(min-width:375px) {
-    h2 { 
-        font-size: 37px
-    }
-}
 
-@media(min-width:414px) {
-    h2 { 
-        font-size: 40px
-    }
-}
 
 a {
     color: {{ site.color.links }};
