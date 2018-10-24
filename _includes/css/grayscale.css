@@ -55,7 +55,14 @@ p {
     }
 }
 
+@media only screen
+    and (min-width: 375px)
+    and (max-width: 767px) 
 
+    {
+        h2 { font-size: 40px; }
+
+    }
 
 a {
     color: {{ site.color.links }};
