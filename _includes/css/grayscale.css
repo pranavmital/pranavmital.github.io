@@ -42,10 +42,10 @@ p {
 
 @media(min-width:767px) {
     p { 
-        font-weight: 500;
+        font-weight: 700;
         margin: 0 0 35px;
-        font-size: 155%;
-        line-height: 1.6;
+        font-size: 175%;
+        line-height: 1.7;
     }
 }
 
