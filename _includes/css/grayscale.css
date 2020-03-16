@@ -325,7 +325,7 @@ a:focus {
     border: 0px solid {{ site.color.links }};
     outline: 0;
     color: {{ site.color.primary-dark }};
-    background-color: {{ site.color.links }};
+    background-color: {{ site.color.hoverbg }};
 }
 
 ul.banner-social-buttons {

@@ -8,6 +8,7 @@ description: Hi, my name is Pranav. Welcome to my personal website!
 color:
   primary-dark: '#000000'
   links: '#219ab3'
+  hoverbg: '#ffffff'
 
 # Footer settings
 footer: Pranav Mital
