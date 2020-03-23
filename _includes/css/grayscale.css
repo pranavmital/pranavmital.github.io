@@ -36,16 +36,16 @@ h6 {
 p { 
     font-weight: 500;
     margin: 0 0 25px;
-    font-size: 147%;
+    font-size: 140%;
     line-height: 1.5;
 }
 
 @media(min-width:767px) {
     p { 
-        font-weight: 700;
+        font-weight: 500;
         margin: 0 0 35px;
         font-size: 175%;
-        line-height: 1.7;
+        line-height: 1.6;
     }
 }
 
