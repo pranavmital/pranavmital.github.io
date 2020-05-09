@@ -272,11 +272,11 @@ a:focus {
     padding-top: 100px;
 }
 
-.projects-section {
+.design-section {
     width: 100%;
     padding: 50px 0;
     color: #000000;
-    background-color: {{ site.color.projects }};
+    background-color: {{ site.color.design }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

@@ -9,7 +9,7 @@ color:
   primary-dark: '000000'
   links: '#00abff'
   hoverbg: '#ffffff'
-  projects: '#ffce1d'
+  design: '#ffce1d'
 
 # Footer settings
 footer: Pranav Mital
